@@ -1,0 +1,6 @@
+-nan(ind)     273 czas
+6.67883e-07     10 czas
+0.026386     1694 czas
+6.02708e-07     10 iteracji
+
+
